@@ -13,6 +13,6 @@ public class Variables {
 
         //reusability (Tekrar kullanılabilir)
 
-        //Bir kere tanımlayıp her yerde kullabilmek ve veriyi değiştirmemiz gerektiğinde bir kere değiştirip sorunu hallederiz
+        //Bir kere tanımlayıp her yerde kullabilmek ve veriyi değiştirmemiz gerektiğinde bir kere değiştirip sorunu hallederiz.
     }
 }
